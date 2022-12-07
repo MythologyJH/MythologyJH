@@ -3,6 +3,8 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=MythologyJH" height="165">
 
+![MythologyJH#0312](https://img.shields.io/badge/Discord-MythologyJH%230312-orange)
+
 <!--
 <p align="center">
 <img src="https://img.shields.io/badge/flutter-ffffff?style=flat-square&logo=flutter&logoColor=blue"/></a> &nbsp
