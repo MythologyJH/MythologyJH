@@ -26,7 +26,7 @@
 
 
 #### Contact Me
-![](https://img.shields.io/badge/Discord-MythologyJH%230312-orange)
+![](https://img.shields.io/badge/Discord-MythologyJH%234012-orange)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mousepixz@gmail.com)](mailto:mousepixz@gmail.com)
 
 
